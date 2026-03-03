@@ -16,7 +16,7 @@ This repository is organized as a monorepo with npm workspaces:
 
 ## 🎥 Project Demo
 
-[![Watch the demo](https://img.youtube.com/vi/2qEf5gwNvpk/0.png)](https://youtu.be/2qEf5gwNvpk)
+[![Watch the demo](https://img.youtube.com/vi/2qEf5gwNvpk/0.jpg)](https://youtu.be/2qEf5gwNvpk)
 
 ## Table of Contents
 
